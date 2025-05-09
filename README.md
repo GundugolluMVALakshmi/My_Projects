@@ -16,6 +16,6 @@ Welcome to my GitHub portfolio! Below are the key projects that I’ve worked on
 - **Description**: A system to manage orders, inventory, and customers for a cafe.
 - **Technologies Used**: Python, MySQL
 
-## [Smart Sales Analytics using Python & Snowflake](https://github.com/YourUsername/Smart-Sales-Analytics)
+## [Smart-Sales-Analytics-using-Python-Snowflake](https://github.com/GundugolluMVALakshmi/Smart-Sales-Analytics-using-Python-Snowflake)
 - **Description**: Integrating Python with Snowflake for ETL, data transformation, and sales analytics.
 - **Technologies Used**: Python, Snowflake, SQL, Pandas

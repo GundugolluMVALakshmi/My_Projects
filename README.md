@@ -26,7 +26,7 @@ A machine learning model designed to predict the likelihood of employee burnout 
 
 ---
 
-### 2. **Digital Banking Management System**
+## [Digital Banking Management System](https://github.com/GundugolluMVALakshmi/Digital_Banking_Management_System)
 
 #### Overview:
 
@@ -104,7 +104,20 @@ A collection of my personal and professional projects showcasing my skills in so
 Welcome to my GitHub portfolio! Below are the key projects that I’ve worked on:
 
 ## [Employee Burnout Analysis and Prediction](https://github.com/GundugolluMVALakshmi/Employee_Burnout_Analysis)
-- **Description**: Machine learning model to predict employee burnout levels based on various features.
+- **Overview**:
+
+A machine learning model designed to predict the likelihood of employee burnout by analyzing various features such as workload, work stress, and personal engagement. This tool empowers organizations to proactively identify burnout risks and implement retention strategies.
+
+#### Key Technologies:
+
+* **Python** | **Scikit-learn** | **Pandas** | **Jupyter Notebook**
+
+#### Core Features:
+
+* **Data Preprocessing**: Clean and transform raw data into usable formats.
+* **Modeling**: Applied classification algorithms to predict burnout.
+* **Evaluation**: Detailed model performance metrics, ensuring high accuracy and reliability.
+Machine learning model to predict employee burnout levels based on various features.
 - **Technologies Used**: Python, Scikit-learn, Pandas, Jupyter Notebook
 - **Key Highlights**: Data preprocessing, feature engineering, model evaluation.
 

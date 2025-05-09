@@ -10,9 +10,9 @@ Welcome to my GitHub portfolio! Below are the key projects that I’ve worked on
 
 ## [Digital Banking Management System](https://github.com/GundugolluMVALakshmi/Digital_Banking_Management_System)
 - **Description**: A digital banking system that supports operations like account management, transfers, and loans.
-- **Technologies Used**: Python, File Handling, 
+- **Technologies Used**: Python, OOP, File Handling, 
 
-## [Cafe Management System](https://github.com/YourUsername/Cafe-Management-System)
+## [Cafe Management System](https://github.com/GundugolluMVALakshmi/-Cafe-Management-System)
 - **Description**: A system to manage orders, inventory, and customers for a cafe.
 - **Technologies Used**: Python, MySQL
 

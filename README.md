@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! Below are the key projects that I’ve worked on
 - **Technologies Used**: Python, Scikit-learn, Pandas, Jupyter Notebook
 - **Key Highlights**: Data preprocessing, feature engineering, model evaluation.
 
-## [Digital Banking Management System](https://github.com/YourUsername/Digital-Banking-Management-System)
+## [Digital Banking Management System](https://github.com/GundugolluMVALakshmi/Digital_Banking_Management_System)
 - **Description**: A digital banking system that supports operations like account management, transfers, and loans.
 - **Technologies Used**: Python, File Handling, 
 
